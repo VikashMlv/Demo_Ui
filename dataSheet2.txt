@@ -1,0 +1,5 @@
+ let data = {
+    name: 'akshay',
+    mobile : '8548754754',
+    city: 'itarsi'
+ }
