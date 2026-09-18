@@ -1,7 +1,5 @@
-let data = {
-  name: "kanha",
-  city: "bhopal",
-  mobile: "95845847485",
-  gender: "male",
-  isActive: "true",
-};
+ let data  = {
+    name : "kanha",
+    city : "bhopal",
+    mobile : '95845847485'
+ }
